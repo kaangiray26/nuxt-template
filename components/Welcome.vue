@@ -7,7 +7,7 @@
         <div class="position-absolute bottom-0 end-0 p-2">
             <a href="https://github.com/kaangiray26/nuxt-template" target="_blank"
                 class="bi bi-github text-decoration-none text-dark">
-                <small class="fw-bold text-muted ms-1">v1.0.0</small>
+                <small class="fw-bold text-muted ms-1">v1.0.1</small>
             </a>
         </div>
     </div>
